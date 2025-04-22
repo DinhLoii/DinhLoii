@@ -1,7 +1,7 @@
 # 💫About Me :
 # 👋 Hi, I’m Dinh Van Loi
 
-🎓 **Software Engineering Student**  
+🎓 **Software Engineering**  
 📍 FPT University – Ho Chinh Minh Campus  
 🎯 Passionate about Fullstack Web Development, UI/UX, and Tech Innovation  
 
