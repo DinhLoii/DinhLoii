@@ -35,10 +35,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinhLoii&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 60px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhLoii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DinhLoii&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="display: inline-block; margin-right: 60px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhLoii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display: inline-block;" />
 </p>
+
 
 
 ### ✍️Random Dev Quote
