@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3156fc0d-9287-47c0-bd05-5e0b0871583f)# 💫About Me :
+# 💫About Me :
 # 👋 Hi, I’m Dinh Van Loi
 
 🎓 **Software Engineering**  
