@@ -29,10 +29,10 @@
 
 ## 🌐 Socials
 
-[![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/profile.php?id=100039600438858) 
-[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://www.instagram.com/dinhvanloii?fbclid=IwY2xjawJ0o3ZleHRuA2FlbQIxMAABHgbUC_UhKqe2BCmHkd93GCmnvz1_M5etbNdF6jWOLyBlrwbcLiDp8yMv9GvF_aem_5MSKeznPtFhaqU_gnEdTkA) 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/%C4%91inh-v%C4%83n-l%E1%BB%A3i-b50443241/) 
-[![YouTube](https://img.icons8.com/ios-filled/50/000000/youtube.png)](https://www.youtube.com/@Dinh.VanLoi) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039600438858)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dinhvanloii?fbclid=IwY2xjawJ0o3ZleHRuA2FlbQIxMAABHgbUC_UhKqe2BCmHkd93GCmnvz1_M5etbNdF6jWOLyBlrwbcLiDp8yMv9GvF_aem_5MSKeznPtFhaqU_gnEdTkA)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91inh-v%C4%83n-l%E1%BB%A3i-b50443241/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Dinh.VanLoi)  
 
 
 # 💻Tech Stack
