@@ -26,7 +26,7 @@
 
 🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
 
-💻 Stack Overflow: [![Stack Overflow](https://stackoverflow.com/users/30346450/%c4%90inh-v%c4%83n-l%e1%bb%a3i)
+💻 Stack Overflow: [Stack Overflow](https://stackoverflow.com/users/30346450/%c4%90inh-v%c4%83n-l%e1%bb%a3i)
 
 
 ## 🌐Socials
