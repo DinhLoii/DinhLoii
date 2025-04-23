@@ -1,4 +1,4 @@
-# 💫About Me :
+![image](https://github.com/user-attachments/assets/3156fc0d-9287-47c0-bd05-5e0b0871583f)# 💫About Me :
 # 👋 Hi, I’m Dinh Van Loi
 
 🎓 **Software Engineering**  
@@ -19,11 +19,14 @@
 ---
 
 ## 📫 Contact
-📧 Email: dinhvanloi000@gmail.com
+
+📧 Email: [dinhvanloi000@gmail.com](mailto:dinhvanloi000@gmail.com)
 
 📱 Phone: +84 961 931 809
 
-🌐 Portfolio: [your-portfolio-link.com]
+🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
+
+https://img.icons8.com/?size=100&id=13955&format=png&color=000000 Stack Overflow: [![Stack Overflow](https://img.icons8.com/ios-filled/50/000000/stack-overflow.png)](https://stackoverflow.com/users/your-stackoverflow-id)
 
 ---
 
