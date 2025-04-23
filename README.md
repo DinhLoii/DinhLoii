@@ -26,7 +26,8 @@
 
 🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
 
-https://img.icons8.com/?size=100&id=13955&format=png&color=000000 Stack Overflow: [![Stack Overflow](https://img.icons8.com/ios-filled/50/000000/stack-overflow.png)](https://stackoverflow.com/users/your-stackoverflow-id)
+![image](https://github.com/user-attachments/assets/45f07072-adbd-4966-bf62-4430f83f43a4)
+ [![Stack Overflow](https://img.icons8.com/ios-filled/50/000000/stack-overflow.png)](https://stackoverflow.com/users/your-stackoverflow-id)
 
 ---
 
