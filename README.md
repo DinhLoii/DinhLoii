@@ -26,10 +26,8 @@
 
 🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
 
-![image](https://github.com/user-attachments/assets/45f07072-adbd-4966-bf62-4430f83f43a4)
- [![Stack Overflow](https://img.icons8.com/ios-filled/50/000000/stack-overflow.png)](https://stackoverflow.com/users/your-stackoverflow-id)
+💻 Stack Overflow: [![Stack Overflow](https://stackoverflow.com/users/30346450/%c4%90inh-v%c4%83n-l%e1%bb%a3i)
 
----
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039600438858) 
