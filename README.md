@@ -7,17 +7,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 3rd-year Software Engineering student at FPT University (2023–2027)
-- 🥇 Top 5 in multiple coding competitions and university hackathons  
-- 💻 Focused on React, Node.js, RESTful APIs, and modern web stack  
-- 🌱 Currently learning DevOps (Docker, CI/CD) and exploring Cloud (AWS, Firebase)
-- 🧩 I enjoy solving logical problems, building clean UI, and contributing to open-source  
-- 🤝 Open to collaboration on web apps, tech-for-good projects, or startups  
-
----
-
 ## 📫 Contact
 
 📧 Email: [dinhvanloi000@gmail.com](mailto:dinhvanloi000@gmail.com)
